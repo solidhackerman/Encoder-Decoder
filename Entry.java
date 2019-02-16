@@ -12,7 +12,7 @@ public class Entry extends encode
        {
            System.out.println("01. Encoder");
            System.out.println("02. Decoder");
-           System.out.println("03. About Us");
+           System.out.println("03. About Me");
 		   System.out.println("04. Exit\n");
            System.out.print("Enter Your Choice : ");
            ch=sc.nextInt();
@@ -31,14 +31,7 @@ public class Entry extends encode
 	    }
 	}
 	public static void AboutUs()
-	{ System.out.print("Developed By - \n\n");
-	  System.out.print("----------------------------------------------------------\n");
-	  System.out.print("| Roll No.    |      Batch        |        Name          |\n");
-      System.out.print("| -------------------------------------------------------|\n");
-	  System.out.print("| 34          |         C-5       |       Vihaan Sharma  |\n");       			                     		 
-	  System.out.print("| 43          |         C-5       |       Sagar Sonawane |\n");
-	  System.out.print("| 44          |         C-5       |       Advait Tare    |\n");
-	  System.out.print("----------------------------------------------------------\n");
+	{ System.out.print("Developed By - Vihaan Sharma\n\n");
 	  Scanner sc=new Scanner(System.in);
 	  sc.nextLine();
     }  
