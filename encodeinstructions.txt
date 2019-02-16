@@ -1,0 +1,34 @@
+Left - Original Alphabet
+Right - Encoder Alphabet
+
+ap
+bu
+cz
+dk
+eq
+ft
+gx
+hw
+if
+jm
+kl
+lg
+md
+ni
+oa
+pc
+qv
+ro
+sn
+tb
+uy
+vs
+wh
+xj
+yw
+zr
+
+
+
+
+
